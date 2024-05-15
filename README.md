@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/etz_da_obiski" target="blank"><img src="https://img.shields.io/twitter/follow/etz_da_obiski?logo=twitter&style=for-the-badge" alt="etz_da_obiski" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **obiski15@gmail.com**
 
