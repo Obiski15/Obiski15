@@ -26,11 +26,12 @@
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=Obiski15&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&bg_color=0d1117" height="140" alt="streak graph" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=Obiski15&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Obiski15&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=Obiski15&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&bg_color=0d1117" height="140" alt="streak graph" />
 
   <br><br>
 
