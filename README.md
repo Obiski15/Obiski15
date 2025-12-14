@@ -33,8 +33,7 @@
 
   <img src="https://streak-stats.demolab.com?user=Obiski15&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&bg_color=0d1117" height="140" alt="streak graph" />
 
-  <br><br>
 
-  <img src="https://raw.githubusercontent.com/Obiski15/Obiski15/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Obiski15/Obiski15/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
