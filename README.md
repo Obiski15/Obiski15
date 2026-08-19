@@ -9,10 +9,10 @@
   </p>
 
   <p align="center">
-    <a href="https://x.com/_obiski" target="_blank">
+    <a href="https://x.com/obiskicancode" target="_blank">
       <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/obiski15/" target="_blank">
+    <a href="https://www.linkedin.com/in/obiskicancode/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:obiski15@gmail.com">
